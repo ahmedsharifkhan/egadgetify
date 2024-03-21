@@ -1,0 +1,519 @@
+
+.depicter-revert .depicter-2-element-88:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-2-element-88:not(.depicter-hover-off):hover {
+	background-color:transparent;
+}
+.depicter-2-element-88 .depicter-symbol-container{
+	fill:#000;
+	transition:all ease 0.3s;
+}
+.depicter-2-element-88:hover .depicter-symbol-container{
+	fill:#ff0000;
+}
+.depicter-revert .depicter-2-element-89:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-2-element-89 .depicter-bullet-item{
+	background-color:rgba(0, 0, 0, 0.2);
+	border-radius:5px 5px 5px 5px ;
+	width:9px;
+	height:9px;
+}
+.depicter-2-element-89 .depicter-bullet-item:hover {
+	background-color:#cbcbcb;
+}
+.depicter-2-element-89 .depicter-bullet-item.depicter-bullet-active{
+	background-color:rgba(0,0,0,1);
+}
+.depicter-2-element-89 .depicter-bullet-item.depicter-bullet-active:hover {
+	background-color:#cbcbcb;
+}
+.depicter-2-element-89 .depicter-bullets-wrapper{
+	gap:5px;
+	flex-direction:row;
+}
+.depicter-revert .depicter-2-element-90:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-2-element-90:not(.depicter-hover-off):hover {
+	background-color:transparent;
+}
+.depicter-2-element-90 .depicter-symbol-container{
+	fill:#000;
+	transition:all ease 0.3s;
+}
+.depicter-2-element-90:hover .depicter-symbol-container{
+	fill:#ff0000;
+}
+.depicter-revert .depicter-2-element-20{
+	font-size:16px;
+	text-align:center;
+	color:#FFF;
+	font-family:"Jost";
+	font-weight:500;
+	text-transform:capitalize;
+	background-color:#000000;
+	border-radius:8px;
+}
+.depicter-revert .depicter-2-element-20:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-2-element-20:not(.depicter-hover-off):hover {
+	color:#FFF;
+	background-color:#DA0C00;
+}
+.depicter-revert .depicter-2-element-16{
+	font-size:70px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-15{
+	font-size:8px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-13{
+	font-size:12px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-21{
+	font-size:16px;
+	color:#da0c00;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-19{
+	font-size:16px;
+	color:#da0c00;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:underline;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-18{
+	opacity:0.7;
+	font-size:16px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-12{
+	font-size:16px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-11{
+	box-shadow:0px 10px 30px 0px rgba(0, 0, 0, 0.15);
+	background-color:#ffffff;
+	border-radius:30px;
+}
+.depicter-revert .depicter-2-element-4{
+	border-radius:0px 0px 300px 300px;
+}
+.depicter-revert .depicter-2-section-1 .depicter-section-background{
+	background-color:#FDF5ED;
+}
+.depicter-revert .depicter-2-element-66{
+	font-size:16px;
+	text-align:center;
+	color:#FFF;
+	font-family:"Jost";
+	font-weight:500;
+	text-transform:capitalize;
+	background-color:#000000;
+	border-radius:8px;
+}
+.depicter-revert .depicter-2-element-66:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-2-element-66:not(.depicter-hover-off):hover {
+	color:#FFF;
+	background-color:#DA0C00;
+}
+.depicter-revert .depicter-2-element-62{
+	font-size:70px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-61{
+	font-size:8px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-59{
+	font-size:12px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-67{
+	font-size:16px;
+	color:#da0c00;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-65{
+	font-size:16px;
+	color:#da0c00;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:underline;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-64{
+	opacity:0.7;
+	font-size:16px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-58{
+	font-size:16px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-57{
+	box-shadow:0px 10px 30px 0px rgba(0, 0, 0, 0.15);
+	background-color:#ffffff;
+	border-radius:30px;
+}
+.depicter-revert .depicter-2-element-51{
+	border-radius:0px 0px 300px 300px;
+}
+.depicter-revert .depicter-2-element-52{
+	transform:scaleX(-1);
+}
+.depicter-revert .depicter-2-section-48 .depicter-section-background{
+	background-color:#FDF5ED;
+}
+.depicter-revert .depicter-2-element-86{
+	font-size:16px;
+	text-align:center;
+	color:#FFF;
+	font-family:"Jost";
+	font-weight:500;
+	text-transform:capitalize;
+	background-color:#000000;
+	border-radius:8px;
+}
+.depicter-revert .depicter-2-element-86:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-2-element-86:not(.depicter-hover-off):hover {
+	color:#FFF;
+	background-color:#DA0C00;
+}
+.depicter-revert .depicter-2-element-82{
+	font-size:70px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-81{
+	font-size:8px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-79{
+	font-size:12px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-87{
+	font-size:16px;
+	color:#da0c00;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-85{
+	font-size:16px;
+	color:#da0c00;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:underline;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-84{
+	opacity:0.7;
+	font-size:16px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-78{
+	font-size:16px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-2-element-77{
+	box-shadow:0px 10px 30px 0px rgba(0, 0, 0, 0.15);
+	background-color:#ffffff;
+	border-radius:30px;
+}
+.depicter-revert .depicter-2-element-71{
+	border-radius:0px 0px 300px 300px;
+}
+.depicter-revert .depicter-2-element-72{
+	transform:scaleX(-1);
+}
+.depicter-revert .depicter-2-section-68 .depicter-section-background{
+	background-color:#FDF5ED;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-2-element-16{
+	font-size:60px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-18{
+	font-size:14px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-12{
+	font-size:14px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-11{
+	border-radius:20px;
+}
+.depicter-revert .depicter-2-element-62{
+	font-size:60px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-64{
+	font-size:14px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-58{
+	font-size:14px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-57{
+	border-radius:20px;
+}
+.depicter-revert .depicter-2-element-52{
+	transform:scaleX(-1);
+}
+.depicter-revert .depicter-2-element-82{
+	font-size:60px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-84{
+	font-size:14px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-78{
+	font-size:14px;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-77{
+	border-radius:20px;
+}
+.depicter-revert .depicter-2-element-72{
+	transform:scaleX(-1);
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-2-element-16{
+	font-size:40px;
+	text-align:center;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-19{
+	font-size:12px;
+	color:#da0c00;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:140%;
+	text-transform:capitalize;
+	text-decoration:underline;
+}
+.depicter-revert .depicter-2-element-18{
+	font-size:12px;
+	text-align:center;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-62{
+	font-size:40px;
+	text-align:center;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-65{
+	font-size:12px;
+	color:#da0c00;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:140%;
+	text-transform:capitalize;
+	text-decoration:underline;
+}
+.depicter-revert .depicter-2-element-64{
+	font-size:12px;
+	text-align:center;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-52{
+	transform:scaleX(-1);
+}
+.depicter-revert .depicter-2-element-82{
+	font-size:40px;
+	text-align:center;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-85{
+	font-size:12px;
+	color:#da0c00;
+	font-family:"Jost";
+	font-weight:600;
+	line-height:140%;
+	text-transform:capitalize;
+	text-decoration:underline;
+}
+.depicter-revert .depicter-2-element-84{
+	font-size:12px;
+	text-align:center;
+	color:#000000;
+	font-family:"Jost";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-2-element-72{
+	transform:scaleX(-1);
+}
+
+}
